@@ -1,6 +1,7 @@
-debian:11
 mariadb:10.9
-phpmyadmin:latest
-mysql:latest
-redis:latest
+redis:6.2
+phpmyadmin/phpmyadmin
+debian:11
 python:3.9-slim
+openjdk:8-jdk-alpine
+nginx:alpine
