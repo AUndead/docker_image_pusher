@@ -1,6 +1,6 @@
 mariadb:10.9
 redis:6.2
-phpmyadmin/phpmyadmin
+phpmyadmin/latest
 debian:11
 python:3.9-slim
 openjdk:8-jdk-alpine
