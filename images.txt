@@ -7,3 +7,4 @@ debian:11
 mariadb:10.9
 phpmyadmin:latest
 mysql:latest
+redis:latest
