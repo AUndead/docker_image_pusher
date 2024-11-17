@@ -5,4 +5,4 @@ debian:11
 python:3.9-slim
 openjdk:8-jdk-alpine
 nginx:alpine
-debian:11
+ubuntu:latest
